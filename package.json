@@ -1,0 +1,26 @@
+{
+  "name": "pekanan-4",
+  "version": "1.0.0",
+  "description": "Tugas Pekanan 4",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davagaluhd/Pekanan-4.git"
+  },
+  "author": "Dava Galuh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davagaluhd/Pekanan-4/issues"
+  },
+  "homepage": "https://github.com/davagaluhd/Pekanan-4#readme",
+  "dependencies": {
+    "chai": "^4.3.7",
+    "chai-http": "^4.3.0",
+    "dotenv": "^16.0.3",
+    "jsonschema": "^1.4.1",
+    "supertest": "^6.3.3"
+  }
+}
