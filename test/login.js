@@ -14,7 +14,7 @@ describe("Test User Login", function(){
         .set('Content-Type', 'Application/json')
         .send({
             email: 'davagaluh22@gmail.com',
-            password: 'bebekkk22'
+            password: 'tokohariini'
         })
         .end(function(error, response){
             expect(response.status).to.equals(201)
